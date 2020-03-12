@@ -1,6 +1,6 @@
 <script>
 
-	import LightBox from "./LightBox.svelte"
+	import LightBox from "./components/LightBox.svelte"
 
 	let go
 	
